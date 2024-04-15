@@ -9,3 +9,4 @@ The "Indian-Birds-Species-Image-Classification" consists of 25 bird species foun
 The dataset contains a total of 37,000 images split into train and validation sets in an 80:20 ratio, with 30,000 images in the training set and 7,500 images in the validation set. Each species has 1,500 images in the dataset.
 
 The trained model has then been used for Image classification on the test data of the Birds dataset.
+Evaluation metrics used are: Accuracy, Class-wise accuracy and Confusion Matrix.
