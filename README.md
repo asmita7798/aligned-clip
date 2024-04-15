@@ -1,6 +1,6 @@
 # aligned-clip
 
-CLIP is a multi-modal vision and language model. It can be used for image-text similarity and for zero-shot image classification. CLIP uses a ViT like transformer to get visual features and a causal language model to get the text features. In this project, CLIP has been aligned to be used as an Image Classifier. 
+CLIP is a multi-modal vision and language model. It can be used for image-text similarity and for zero-shot image classification. CLIP uses a ViT like transformer to get visual features and a causal language model to get the text features. In this project, CLIP has been aligned to be used as an Image Classifier. The "ViT-B/32" version of the model has been used.
 
 
 The model has been trained on the following dataset:
